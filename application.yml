@@ -6,9 +6,9 @@ spring:
 spring:
     profiles: dev
     application:
-        name:chserivcecloud-config-ch-dev
+        name: chserivcecloud-config-ch-dev
 
 spring:
     profiles: test
     application:
-        name:chserivcecloud-config-ch-test
+        name: chserivcecloud-config-ch-test
